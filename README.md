@@ -4,10 +4,10 @@ A lightweight [EquiCord](https://github.com/Equicord/Equicord) plugin for hiding
 
 ## Features
 
-- **DM Selection** — Right-click a DM to protect or unprotect it.
-- **Sidebar Blur** — Blur selected users in the DM sidebar.
-- **Privacy Mode** — Manually toggle protection.
-- **Persistent Storage** — Protected DMs remain saved between sessions.
+- **DM Selection** -- Right-click a DM to protect or unprotect it.
+- **Sidebar Blur** -- Blur selected users in the DM sidebar.
+- **Privacy Mode** -- Manually toggle protection.
+- **Persistent Storage** -- Protected DMs remain saved between sessions.
 
 ## Installation
 
